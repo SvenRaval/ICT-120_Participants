@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0f8ed5-e938-4030-a511-b3a341d2ede7" name="Changes" comment="" />
+    <list default="true" id="ef0f8ed5-e938-4030-a511-b3a341d2ede7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Main/Script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663315448430</updated>
-      <workItem from="1663315449598" duration="768000" />
+      <workItem from="1663315449598" duration="985000" />
     </task>
     <servers />
   </component>
